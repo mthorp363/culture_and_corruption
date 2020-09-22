@@ -1,4 +1,4 @@
-# Hofstede's 6 Dimensions and Corruption
+# Project 2: Hofstede's 6 Dimensions and Corruption
 ## Executive Summary
 
 For companies working internationally, it is important to be aware of the corruption they may need to deal with in new countries. However, data is not always available to make a meaningful comparison and therefore, Hofstede's 6 dimensions will be compared with a variety of different corruption ratings to see if any correlate. Later, this can be used to develop a predictor.
