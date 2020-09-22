@@ -1,4 +1,4 @@
-# Project 2: Hofstede's 6 Dimensions and Corruption
+# [Project 2: Hofstede's 6 Dimensions and Corruption](https://github.com/mthorp363/culture_and_corruption/blob/master/Main.ipynb)
 ## Executive Summary
 
 For companies working internationally, it is important to be aware of the corruption they may need to deal with in new countries. However, data is not always available to make a meaningful comparison and therefore, Hofstede's 6 dimensions will be compared with a variety of different corruption ratings to see if any correlate. Later, this can be used to develop a predictor.
@@ -13,7 +13,5 @@ Key insights:
 - "Bertelsmann" was the least useful corruption ranking.
 
 ![Hofstede's 6 Dimensions and CPI correlation](corruption_features.png "Hofstede's 6 Dimensions and CPI correlation")
-
-[View Notebook](https://github.com/mthorp363/culture_and_corruption/blob/master/Main.ipynb)
 
 Data from [Transparency International's CPI](https://www.transparency.org/en/cpi/2019/results/table) and [Hofstede's 6 dimensions of culture](https://geerthofstede.com/research-and-vsm/dimension-data-matrix/).
