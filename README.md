@@ -27,3 +27,7 @@ In Part 1 of culture and corruption, the cultural dimension which showed the mos
 - Using the column mean has the worst performance overall.
 - Using linear interpolation, outliers or dropping missing values had the same mean value.
 - Dropping the values altogether had the highest potential value.
+
+![Prediction vs. results](LinRegLin.png "predictions and results")
+
+![Dataset handling](LinRegBox.png "Effects of different methods to handle data")
